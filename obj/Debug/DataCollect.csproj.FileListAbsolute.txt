@@ -1,0 +1,13 @@
+D:\SUGAR\MODBUS\DataCollect\obj\Debug\DataCollect.csprojAssemblyReference.cache
+D:\SUGAR\MODBUS\DataCollect\obj\Debug\DataCollect.F_DeviceManage.resources
+D:\SUGAR\MODBUS\DataCollect\obj\Debug\DataCollect.F_main.resources
+D:\SUGAR\MODBUS\DataCollect\obj\Debug\DataCollect.Properties.Resources.resources
+D:\SUGAR\MODBUS\DataCollect\obj\Debug\DataCollect.csproj.GenerateResource.cache
+D:\SUGAR\MODBUS\DataCollect\obj\Debug\DataCollect.csproj.CoreCompileInputs.cache
+D:\SUGAR\MODBUS\DataCollect\bin\Debug\DataCollect.exe.config
+D:\SUGAR\MODBUS\DataCollect\bin\Debug\DataCollect.exe
+D:\SUGAR\MODBUS\DataCollect\bin\Debug\DataCollect.pdb
+D:\SUGAR\MODBUS\DataCollect\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\SUGAR\MODBUS\DataCollect\obj\Debug\DataCollect.csproj.CopyComplete
+D:\SUGAR\MODBUS\DataCollect\obj\Debug\DataCollect.exe
+D:\SUGAR\MODBUS\DataCollect\obj\Debug\DataCollect.pdb
